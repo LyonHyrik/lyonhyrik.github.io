@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>LyonHyrik</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>https://lyonhyrik.github.io/icon.png</icon>
+  <id>https://lyonhyrik.github.io/</id>
+  <link href="https://lyonhyrik.github.io/" rel="alternate"/>
+  <link href="https://lyonhyrik.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, LyonHyrik</rights>
+  <subtitle>Lyon's Blog</subtitle>
+  <title>Lyon's Blog | LyonHyrikの小窝</title>
+  <updated>2026-07-28T08:29:35.076Z</updated>
+  <entry>
+    <author>
+      <name>LyonHyrik</name>
+    </author>
+    <category term="软件" scheme="https://lyonhyrik.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    <id>https://lyonhyrik.github.io/posts/d87f7e0c/</id>
+    <link href="https://lyonhyrik.github.io/posts/d87f7e0c/"/>
+    <published>2026-07-28T07:17:44.000Z</published>
+    <summary>
+      <![CDATA[<ul>
+<li><em>前言：由于我目前用的 OPPO Reno8 Pro 所搭载的 ColorOS 14.0 功能非常的少🕊️，所以前段时间我用词幕实现了状态栏歌词来增强听歌体验 同时因为我想白嫖（bushi😋]]>
+    </summary>
+    <title>MD3Music | 开源！免费！酷狗概念版！！！</title>
+    <updated>2026-07-28T08:29:35.076Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>LyonHyrik</name>
+    </author>
+    <category term="尘封往事" scheme="https://lyonhyrik.github.io/tags/%E5%B0%98%E5%B0%81%E5%BE%80%E4%BA%8B/"/>
+    <id>https://lyonhyrik.github.io/posts/d87sdas/</id>
+    <link href="https://lyonhyrik.github.io/posts/d87sdas/"/>
+    <published>2026-07-26T07:15:56.000Z</published>
+    <summary>
+      <![CDATA[<p>旧时间给了我现在什么呢？<br>可能是对旧时代的怀念吧…</p>
+<p>毕竟高中以前 我从来没出现过对小学的怀念<br>可是高中了 我居然开始怀念起了初中…<br>到底是他们的素质变了…<br>还是我的观念变了…</p>
+<p><img]]>
+    </summary>
+    <title>一些旧相片</title>
+    <updated>2026-07-28T08:29:46.481Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>LyonHyrik</name>
+    </author>
+    <category term="尘封往事" scheme="https://lyonhyrik.github.io/tags/%E5%B0%98%E5%B0%81%E5%BE%80%E4%BA%8B/"/>
+    <id>https://lyonhyrik.github.io/posts/d8g67e0c/</id>
+    <link href="https://lyonhyrik.github.io/posts/d8g67e0c/"/>
+    <published>2026-07-26T07:02:31.000Z</published>
+    <summary>
+      <![CDATA[<h5 id="3年前"><a href="#3年前" class="headerlink" title="3年前"></a>3年前</h5><p>我才刚把 HayFrp Panel V1.0 写完并发布B站</p>
+<h5 id="3年后"><a href="#3年后"]]>
+    </summary>
+    <title>时间真快.</title>
+    <updated>2026-07-28T08:29:58.172Z</updated>
+  </entry>
+</feed>
