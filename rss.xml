@@ -6,7 +6,7 @@
     <description>Lyon's Blog</description>
     <language>zh-CN</language>
     <copyright>All rights reserved 2026, LyonHyrik</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 11:09:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 11:49:29 GMT</lastBuildDate>
     <generator>Hexo</generator>
     <image>
       <url>https://lyonhyrik.github.io/icon.png</url>
@@ -22,7 +22,13 @@
 <li><em>前言：早些时候（三四年前和谐论坛还在的时候），我曾经推荐过两个RSS订阅器，一个是 Windows端 Fluent Reader,另一个则是安卓端 Agr Reader，不过显然，Android 端的 Agr Reader]]>
       </description>
       <author>LyonHyrik</author>
+      <category domain="https://lyonhyrik.github.io/categories/%E8%BD%AF%E4%BB%B6/">软件</category>
       <category domain="https://lyonhyrik.github.io/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      <category domain="https://lyonhyrik.github.io/tags/MD3/">MD3</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E8%AE%A2%E9%98%85/">订阅</category>
+      <category domain="https://lyonhyrik.github.io/tags/RSS/">RSS</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E7%A4%BE%E4%BA%A4/">社交</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E5%BC%80%E6%BA%90/">开源</category>
       <pubDate>Wed, 29 Jul 2026 10:39:07 GMT</pubDate>
     </item>
     <item>
@@ -33,7 +39,12 @@
 <li><em>前言：由于我目前用的 OPPO Reno8 Pro 所搭载的 ColorOS 14.0 功能非常的少🕊️，所以前段时间我用词幕实现了状态栏歌词来增强听歌体验 同时因为我想白嫖（bushi😋]]>
       </description>
       <author>LyonHyrik</author>
+      <category domain="https://lyonhyrik.github.io/categories/%E8%BD%AF%E4%BB%B6/">软件</category>
       <category domain="https://lyonhyrik.github.io/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      <category domain="https://lyonhyrik.github.io/tags/MD3/">MD3</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E5%BC%80%E6%BA%90/">开源</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E9%9F%B3%E4%B9%90/">音乐</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E9%85%B7%E7%8B%97/">酷狗</category>
       <pubDate>Tue, 28 Jul 2026 07:17:44 GMT</pubDate>
     </item>
     <item>
@@ -45,7 +56,12 @@
 <p><img]]>
       </description>
       <author>LyonHyrik</author>
+      <category domain="https://lyonhyrik.github.io/categories/%E7%85%A7%E7%89%87/">照片</category>
       <category domain="https://lyonhyrik.github.io/tags/%E5%B0%98%E5%B0%81%E5%BE%80%E4%BA%8B/">尘封往事</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E6%97%A7%E7%9B%B8%E7%89%87/">旧相片</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E6%8B%8D%E7%85%A7/">拍照</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E6%91%84%E5%BD%B1/">摄影</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E6%9D%82%E8%B0%88/">杂谈</category>
       <pubDate>Sun, 26 Jul 2026 07:15:56 GMT</pubDate>
     </item>
     <item>
@@ -56,7 +72,9 @@
 <h5 id="3年后"><a href="#3年后"]]>
       </description>
       <author>LyonHyrik</author>
+      <category domain="https://lyonhyrik.github.io/categories/%E9%97%B2%E8%81%8A/">闲聊</category>
       <category domain="https://lyonhyrik.github.io/tags/%E5%B0%98%E5%B0%81%E5%BE%80%E4%BA%8B/">尘封往事</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E6%9D%82%E8%B0%88/">杂谈</category>
       <pubDate>Sun, 26 Jul 2026 07:02:31 GMT</pubDate>
     </item>
   </channel>
