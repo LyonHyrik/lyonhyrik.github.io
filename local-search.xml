@@ -8,7 +8,7 @@
     <link href="/posts/af7f2c8a/"/>
     <url>/posts/af7f2c8a/</url>
     
-    <content type="html"><![CDATA[<ul><li><em>前言：早些时候（三四年前和谐论坛还在的时候），我曾经推荐过两个RSS订阅器，一个是 Windows端 Fluent Reader,另一个则是安卓端 Agr Reader，不过显然，Android 端的 Agr Reader 界面并不干净，给人一种乱乱的感觉。前段时间在 F-droid 发现一个非常整洁干净的 MD3 RSS  阅读器，感觉还是挺不错的.</em></li></ul><h3 id="关于此应用"><a href="#关于此应用" class="headerlink" title="关于此应用"></a>关于此应用</h3><p>这是一个非常纯粹的 <em>RSS</em> 阅读器，采用 <em>MD3（Material UI Design 3）</em> 的设计语言.</p><p>RSS 是一种用于订阅网站信息的链接文件，他本质上就是某个网站上帖子部分的整合所形成的一种格式.</p><h3 id="添加订阅"><a href="#添加订阅" class="headerlink" title="添加订阅"></a>添加订阅</h3><blockquote><p>当然，你可以选择配合本站RSS订阅源食用：<br><a href="https://lyonhyrik.github.io/rss.xml">https://lyonhyrik.github.io/rss.xml</a><br><img src="/emoji/%E6%BB%91%E7%A8%BD.jpg" alt="（如果你想的话）"><br>这样子你就能天天看到我の小窝（x<br><img src="/emoji/%E8%80%B6.gif" alt="耶"></p></blockquote><p><img src="/images/Read-You-%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EMD3%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%8E%B0%E4%BB%A3RSS%E8%AE%A2%E9%98%85%E5%BA%94%E7%94%A8/Screenshot_2026-07-29-18-59-43-43_8ddb5377535fa5c96d651cdcfe3fe939.jpg" alt="订阅内容"></p><p><img src="/images/Read-You-%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EMD3%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%8E%B0%E4%BB%A3RSS%E8%AE%A2%E9%98%85%E5%BA%94%E7%94%A8/Screenshot_2026-07-29-19-01-01-57_3aea4af51f236e4932235fdada7d1643.jpg" alt="如果图片载入不了可以改为浏览器模式"></p><blockquote><p>本站比较纯净所以如果真有人订阅的话可以用浏览器模式，加载不会卡的（）<br><img src="/emoji/%E5%A5%BD%E8%AF%84.jpg" alt="好评"></p></blockquote><h3 id="开源链接"><a href="#开源链接" class="headerlink" title="开源链接"></a>开源链接</h3><p><a href="https://github.com/ReadYouApp/ReadYou">开源页面</a> | <a href="https://github.com/ReadYouApp/ReadYou/releases">下载地址</a></p><p>进不去可能要科学上网</p><p><img src="/emoji/%E6%B0%94%E7%A8%BD%E8%B4%A5%E5%9D%8F.gif" alt="气稽败坏"></p>]]></content>
+    <content type="html"><![CDATA[<ul><li><em>前言：早些时候（三四年前和谐论坛还在的时候），我曾经推荐过两个RSS订阅器，一个是 Windows端 Fluent Reader,另一个则是安卓端 Agr Reader，不过显然，Android 端的 Agr Reader 界面并不干净，给人一种乱乱的感觉。前段时间在 F-droid 发现一个非常整洁干净的 MD3 RSS  阅读器，感觉还是挺不错的.</em></li></ul><h3 id="关于此应用"><a href="#关于此应用" class="headerlink" title="关于此应用"></a>关于此应用</h3><p>这是一个非常纯粹的 <em>RSS</em> 阅读器，采用 <em>MD3（Material UI Design 3）</em> 的设计语言.</p><p>RSS 是一种用于订阅网站信息的链接文件，他本质上就是某个网站上帖子部分的整合所形成的一种格式.</p><h3 id="添加订阅"><a href="#添加订阅" class="headerlink" title="添加订阅"></a>添加订阅</h3><blockquote><p>当然，你可以选择配合本站RSS订阅源食用：<br><a href="https://lyonhyrik.github.io/rss.xml">https://lyonhyrik.github.io/rss.xml</a><br><img src="/emoji/%E6%BB%91%E7%A8%BD.jpg" alt="（如果你想的话）"><br>这样子你就能天天看到我の小窝（x<br><img src="/emoji/%E8%80%B6.gif" alt="耶"></p></blockquote><p><img src="/images/Read-You-%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EMD3%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%8E%B0%E4%BB%A3RSS%E8%AE%A2%E9%98%85%E5%BA%94%E7%94%A8/Screenshot_2026-07-29-20-11-18-76_8ddb5377535fa5c96d651cdcfe3fe939.jpg" alt="订阅内容"></p><p><img src="/images/Read-You-%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EMD3%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%8E%B0%E4%BB%A3RSS%E8%AE%A2%E9%98%85%E5%BA%94%E7%94%A8/Screenshot_2026-07-29-19-01-01-57_3aea4af51f236e4932235fdada7d1643.jpg" alt="如果图片载入不了可以改为浏览器模式"></p><blockquote><p>本站比较纯净所以如果真有人订阅的话可以用浏览器模式，加载不会卡的（）<br><img src="/emoji/%E5%A5%BD%E8%AF%84.jpg" alt="好评"></p></blockquote><h3 id="开源链接"><a href="#开源链接" class="headerlink" title="开源链接"></a>开源链接</h3><p><a href="https://github.com/ReadYouApp/ReadYou">开源页面</a> | <a href="https://github.com/ReadYouApp/ReadYou/releases">下载地址</a></p><p>进不去可能要科学上网</p><p><img src="/emoji/%E6%B0%94%E7%A8%BD%E8%B4%A5%E5%9D%8F.gif" alt="气稽败坏"></p>]]></content>
     
     
     <categories>
@@ -22,8 +22,6 @@
       
       <tag>软件</tag>
       
-      <tag>开源</tag>
-      
       <tag>MD3</tag>
       
       <tag>订阅</tag>
@@ -31,6 +29,8 @@
       <tag>RSS</tag>
       
       <tag>社交</tag>
+      
+      <tag>开源</tag>
       
     </tags>
     
@@ -57,13 +57,13 @@
       
       <tag>软件</tag>
       
-      <tag>音乐</tag>
-      
-      <tag>酷狗</tag>
+      <tag>MD3</tag>
       
       <tag>开源</tag>
       
-      <tag>MD3</tag>
+      <tag>音乐</tag>
+      
+      <tag>酷狗</tag>
       
     </tags>
     
