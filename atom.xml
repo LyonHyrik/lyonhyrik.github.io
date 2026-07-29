@@ -11,7 +11,22 @@
   <rights>All rights reserved 2026, LyonHyrik</rights>
   <subtitle>Lyon's Blog</subtitle>
   <title>Lyon's Blog | LyonHyrikの小窝</title>
-  <updated>2026-07-28T08:29:35.076Z</updated>
+  <updated>2026-07-29T11:09:53.087Z</updated>
+  <entry>
+    <author>
+      <name>LyonHyrik</name>
+    </author>
+    <category term="软件" scheme="https://lyonhyrik.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    <id>https://lyonhyrik.github.io/posts/af7f2c8a/</id>
+    <link href="https://lyonhyrik.github.io/posts/af7f2c8a/"/>
+    <published>2026-07-29T10:39:07.000Z</published>
+    <summary>
+      <![CDATA[<ul>
+<li><em>前言：早些时候（三四年前和谐论坛还在的时候），我曾经推荐过两个RSS订阅器，一个是 Windows端 Fluent Reader,另一个则是安卓端 Agr Reader，不过显然，Android 端的 Agr Reader]]>
+    </summary>
+    <title>Read You | 一个基于 MD3 设计语言的的现代 RSS 订阅应用</title>
+    <updated>2026-07-29T11:09:53.087Z</updated>
+  </entry>
   <entry>
     <author>
       <name>LyonHyrik</name>
@@ -25,7 +40,7 @@
 <li><em>前言：由于我目前用的 OPPO Reno8 Pro 所搭载的 ColorOS 14.0 功能非常的少🕊️，所以前段时间我用词幕实现了状态栏歌词来增强听歌体验 同时因为我想白嫖（bushi😋]]>
     </summary>
     <title>MD3Music | 开源！免费！酷狗概念版！！！</title>
-    <updated>2026-07-28T08:29:35.076Z</updated>
+    <updated>2026-07-29T11:10:05.679Z</updated>
   </entry>
   <entry>
     <author>
