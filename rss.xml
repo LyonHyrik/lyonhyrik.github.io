@@ -6,7 +6,7 @@
     <description>Lyon's Blog</description>
     <language>zh-CN</language>
     <copyright>All rights reserved 2026, LyonHyrik</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 12:13:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 19:47:37 GMT</lastBuildDate>
     <generator>Hexo</generator>
     <image>
       <url>https://lyonhyrik.github.io/img/Lyon.png</url>
@@ -14,6 +14,20 @@
       <link>https://lyonhyrik.github.io/</link>
     </image>
     <atom:link href="https://lyonhyrik.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Arch Linux 使用体验 | 2026年，Linux适合日用了吗？</title>
+      <link>https://lyonhyrik.github.io/posts/cb2de955/</link>
+      <description>
+        <![CDATA[<ul>
+<li><em>前言：我必须承认，Windows是一件伟大的艺术品，算上弃船这年，我已经用了快10年的Windows操作系统，从Windows]]>
+      </description>
+      <author>LyonHyrik</author>
+      <category domain="https://lyonhyrik.github.io/tags/%E6%9D%82%E8%B0%88/">杂谈</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/">操作系统</category>
+      <category domain="https://lyonhyrik.github.io/tags/Linux/">Linux</category>
+      <category domain="https://lyonhyrik.github.io/tags/Arch-Linux/">Arch Linux</category>
+      <pubDate>Thu, 30 Jul 2026 15:46:42 GMT</pubDate>
+    </item>
     <item>
       <title>Read You | 一个基于 MD3 设计语言的的现代 RSS 订阅应用</title>
       <link>https://lyonhyrik.github.io/posts/af7f2c8a/</link>
