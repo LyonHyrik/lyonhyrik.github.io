@@ -6,7 +6,7 @@
     <description>Lyon's Blog</description>
     <language>zh-CN</language>
     <copyright>All rights reserved 2026, LyonHyrik</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 03:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 07:15:08 GMT</lastBuildDate>
     <generator>Hexo</generator>
     <image>
       <url>https://lyonhyrik.github.io/img/Lyon.png</url>
@@ -14,6 +14,24 @@
       <link>https://lyonhyrik.github.io/</link>
     </image>
     <atom:link href="https://lyonhyrik.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>云与天 | 一些相片</title>
+      <link>https://lyonhyrik.github.io/posts/e80cd0e3/</link>
+      <description>
+        <![CDATA[<ul>
+<li><em>老家的顶楼是个拍天的好地方，所以我经常在回老家的时候爬上顶楼留下一些照片. 当然，头图是昨天下午拍的，其余的大概是之前拍的，还有一些在其他地方拍的天.</em></li>
+</ul>
+<h3 id="不知道什么时候我就开始迷上摄影了😵‍💫"><a]]>
+      </description>
+      <author>LyonHyrik</author>
+      <category domain="https://lyonhyrik.github.io/tags/%E6%8B%8D%E7%85%A7/">拍照</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E6%91%84%E5%BD%B1/">摄影</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E7%9B%B8%E7%89%87/">相片</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E4%BA%91%E6%9C%B5/">云朵</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E6%A3%89%E8%8A%B1%E7%B3%96/">棉花糖</category>
+      <category domain="https://lyonhyrik.github.io/tags/%E9%97%B2%E8%81%8A/">闲聊</category>
+      <pubDate>Sat, 01 Aug 2026 06:27:45 GMT</pubDate>
+    </item>
     <item>
       <title>Arch Linux 使用体验 | 2026年，Linux适合日用了吗？</title>
       <link>https://lyonhyrik.github.io/posts/cb2de955/</link>
