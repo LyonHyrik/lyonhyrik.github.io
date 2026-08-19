@@ -11,22 +11,7 @@
   <rights>All rights reserved 2026, LyonHyrik</rights>
   <subtitle>Lyon's Blog</subtitle>
   <title>Lyon's Blog | LyonHyrikの小窝</title>
-  <updated>2026-08-14T07:29:37.000Z</updated>
-  <entry>
-    <author>
-      <name>LyonHyrik</name>
-    </author>
-    <category term="杂谈" scheme="https://lyonhyrik.github.io/tags/%E6%9D%82%E8%B0%88/"/>
-    <category term="编程" scheme="https://lyonhyrik.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
-    <id>https://lyonhyrik.github.io/posts/2e24300f/</id>
-    <link href="https://lyonhyrik.github.io/posts/2e24300f/"/>
-    <published>2026-08-14T07:26:37.000Z</published>
-    <summary>
-      <![CDATA[<p>前段时间在酷安上面发现了一个模块-MusicHaptics，原作者开源了，于是我就加进去大改一大坨</p>]]>
-    </summary>
-    <title>论改了奇葩振动模块后有什么感受</title>
-    <updated>2026-08-14T07:29:37.000Z</updated>
-  </entry>
+  <updated>2026-08-01T07:15:08.700Z</updated>
   <entry>
     <author>
       <name>LyonHyrik</name>
